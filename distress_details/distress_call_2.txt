@@ -1,0 +1,2 @@
+Transcription for distress_recording_2.wav: Oh my god. I'm dying. I'm dying. Please send help, Orlando.
+Distress Level for distress_recording_2.wav: 0.8270324021577835

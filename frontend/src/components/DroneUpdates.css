@@ -1,0 +1,52 @@
+.drone-updates-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f4f6f9;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.results-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.result-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 20px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  color: black;
+  transition: background-color 0.3s ease;
+}
+
+.description-box, .coordinates-box, .priority-box {
+  flex: 1;
+  padding: 10px;
+}
+
+.priority-box {
+  border-radius: 12px;
+  padding: 10px;
+  color: white;
+}
+
+/* Priority-specific colors */
+.priority-box.high-priority {
+  background-color: #ff5c5c;  /* Red for High and Very High risk */
+}
+
+.priority-box.low-priority {
+  background-color: #28a745;  /* Green for Low and Moderate risk */
+}
+
+.priority-box h3, .description-box h3, .coordinates-box h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+}

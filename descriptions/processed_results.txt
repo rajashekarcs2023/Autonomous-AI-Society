@@ -1,0 +1,40 @@
+File: image_0023_jpg.rf.5dd832edecf30a66faf99a4537cb984e.jpg
+Description: There is a person in the image who appears to be partially submerged in floodwaters. The water reaches up to their chest, indicating a significant flood situation. Rescue efforts may be needed to ensure their safety.
+Coordinates: {'latitude': 25.932679, 'longitude': -86.978809}
+
+File: pool.jpg
+Description: Yes, there are humans in the image. They appear to be enjoying themselves in a pool, waving and smiling. No rescue efforts are needed as the situation seems normal and safe.
+Coordinates: {'latitude': 30.539837, 'longitude': -82.616991}
+
+File: image_0017_jpg.rf.52d07423667a76a0a5f83c2a0a898954.jpg
+Description: There is a person standing near a body of water with a building in the background. The person appears to be fine and no rescue efforts are needed.
+Coordinates: {'latitude': 26.453701, 'longitude': -81.103103}
+
+File: beach.jpg
+Description: There are humans in the image. They appear to be enjoying themselves in the water, with waves splashing around them. No rescue efforts are needed as they seem to be fine and in a normal, playful situation.
+Coordinates: {'latitude': 30.390568, 'longitude': -82.061548}
+
+File: pool2.jpg
+Description: There are two individuals in a swimming pool, playing with a ball. They appear to be fine, and no rescue efforts are needed.
+Coordinates: {'latitude': 26.578034, 'longitude': -87.448521}
+
+File: image_004_jpg.rf.147752d367ba43e1b96072fefffbb160.jpg
+Description: Yes, there are humans in the image. They appear to be navigating through a flooded street. A woman is carrying a child, and there are other people and vehicles in the background. Rescue efforts may be needed to help them safely cross the flooded area and reach higher ground.
+Coordinates: {'latitude': 30.858101, 'longitude': -83.99322}
+
+File: beach1.jpg
+Description: Yes, there are humans in the image. They appear to be enjoying themselves in the water, with no signs of distress. No rescue efforts are needed.
+Coordinates: {'latitude': 29.874087, 'longitude': -83.492534}
+
+File: image_007_jpg.rf.bd879b443847e96640c0719f5b3a8409.jpg
+Description: There is a person riding a bicycle through a flooded street. The water level is high, and the area appears to be severely flooded. Rescue efforts may be needed to ensure the safety of the individual and assess the situation for potential evacuation or assistance.
+Coordinates: {'latitude': 29.370827, 'longitude': -82.912134}
+
+File: child.jpg
+Description: Yes, there are humans in the image. They are on a roof of a submerged house in a heavily flooded area. Immediate rescue efforts are needed to save them from the floodwaters.
+Coordinates: {'latitude': 26.914461, 'longitude': -85.407794}
+
+File: image_0008_jpg.rf.71bb4f0d525a5788e96d17a926dfb5c2.jpg
+Description: No humans are visible in this image. However, the image shows a house surrounded by extensive flooding, with water covering the surrounding area and reaching the house's foundation. Rescue teams should be aware of potential risks to any occupants or animals that may be inside the house or in the vicinity. Immediate evacuation and rescue efforts are recommended to ensure safety.
+Coordinates: {'latitude': 24.717182, 'longitude': -82.103466}
+

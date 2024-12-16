@@ -1,0 +1,133 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f6f9;
+  margin: 0;
+  padding: 20px;
+}
+
+.distress-container {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  color: #ff5c5c;
+  margin-bottom: 30px;
+  font-size: 2.5rem;
+}
+
+.distress-calls {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.distress-call-box {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  border-left: 10px solid #ff5c5c;
+  position: relative;
+  transition: transform 0.3s ease;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.distress-call-box.urgent {
+  border-left-color: #ff0000;
+}
+
+.distress-call-box.moderate {
+  border-left-color: #ffa500;
+}
+
+.distress-call-box.low {
+  border-left-color: #28a745;
+}
+
+.distress-call-box:hover {
+  transform: translateY(-5px);
+}
+
+.distress-call-box h3 {
+  margin: 0 0 10px;
+  font-size: 1.8rem;
+  color: #333;
+}
+
+.distress-call-box pre {
+  font-size: 1rem;
+  color: #555;
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  width: 100%; /* Ensures text stays inside the box */
+  text-align: left;
+}
+
+.distress-bar {
+  width: 80px;
+  height: 80px;
+  margin-left: 20px;
+  flex-shrink: 0;
+}
+
+.urgency-label {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  background-color: #ff0000;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.distress-call-box.low .urgency-label {
+  background-color: #28a745;
+}
+
+.distress-call-box.moderate .urgency-label {
+  background-color: #ffa500;
+}
+
+.distress-call-box.urgent .urgency-label {
+  background-color: #ff0000;
+}
+
+/* Updated Summary Container */
+.summary-container {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  max-height: 250px; /* Adjust to fit more text */
+  overflow-y: auto;  /* Enable scroll if content exceeds the box */
+  word-wrap: break-word; /* Ensure long words wrap correctly */
+  white-space: pre-wrap; /* Preserve whitespace and wrap text */
+  overflow-wrap: break-word; /* Ensure long text wraps */
+  font-size: 1rem; /* Ensure readability */
+}
+
+.drone-updates-button {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.drone-updates-button:hover {
+  background-color: #0056b3;
+}

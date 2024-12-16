@@ -1,0 +1,2 @@
+Transcription for distress_recording_5.wav: I need information about where to move.
+Distress Level for distress_recording_5.wav: 0.275566341355443

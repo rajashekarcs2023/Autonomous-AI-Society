@@ -1,1 +1,1 @@
-# Autonomous-AI-Society
+# project-z

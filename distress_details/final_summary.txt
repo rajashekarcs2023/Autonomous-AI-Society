@@ -1,0 +1,3 @@
+Highest Distress Level: 0.8270324021577835 from file distress_recording_2.wav
+Identified City: Orlando
+Summarized Message: Urgent help needed in Orlando due to Hurricane Milton: power out, elderly father with heart condition feeling unwell, limited food/water, unable to leave due to flooding and falling trees. Request immediate medical assistance and evacuation.

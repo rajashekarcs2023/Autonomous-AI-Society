@@ -1,0 +1,2 @@
+Transcription for distress_recording_1.wav: I need help. I'm from Miami.
+Distress Level for distress_recording_1.wav: 0.3449237160384655
